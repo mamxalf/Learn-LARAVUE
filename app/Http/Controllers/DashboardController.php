@@ -31,4 +31,9 @@ class DashboardController extends Controller
             'pie' => $pie,
         ]);
     }
+
+    public function create()
+    {
+
+    }
 }
